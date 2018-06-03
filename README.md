@@ -1,50 +1,27 @@
-## Your Name
+## Jordan Brooks
+Email: jorbrooks92@gmail.com
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Junior developer currently seeking work, with an interest in scalability, functional programming 
+and DevOps. 
+
+## Projects:
+
+| Name                       | Description                                                                   | Technologies                     |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [Final Project](https://github.com/jbropho/final-project-websocket-livechat)      | My groups final project at Makers Academy, a live chat application using websockets, built in Node with a React frontend.              | Node, React, Websockets, Travis CI  | Jasmine, Nightwatch      |
+| [Bank Tech Test](https://github.com/jbropho/bank-tech-test) |  A tech test to build a simple cli bank app | Javascript | Jasmine
+| [Takeaway challenge](https://github.com/jbropho/takeaway-challenge)       | A weekend challenge| [Takeaway CLI takeaway app which notifies use| [Takeaway challenge](https://github.com/jbropho/takeaway-challenge)       | A weekend challeng  | [TakRuby, Sinatra, Heroku,| [Takeaway challenge](https://github.com/jbropho/takeaway-challenge)       | A weekend challenge| [Takeaway CLI takeaway app which notifies use| [Takeaway challenge](https://githubails, Postgresql, Heroku         | RSpec       |   
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Problem solving
 
 ## Education
+Makers Academy (19/3/2018 to 9/7/2018)
 
-#### Makers Academy (start_date to end_date)
+## Interests
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
