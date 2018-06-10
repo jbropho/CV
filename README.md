@@ -1,6 +1,8 @@
 ## Jordan Brooks
 Email: jorbrooks92@gmail.com
 
+[Projects](##Projects:) | [Education](#Education) | [Skills](#Skills) | [Interests](##Interests)
+
 Junior developer currently seeking work, with an interest in scalability, functional programming 
 and DevOps. Looking for a role which combines software engineering with DevOps, prefferably with a 
 diverse tech stack and the option to explore various roles across the development cycle.
@@ -8,9 +10,9 @@ diverse tech stack and the option to explore various roles across the developmen
 ## Projects:
 | Name               | Description                                                                                                                                           | Tech                          | Testing        |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|----------------|
-| Final Project      |   My groups final project at Makers Academy. A livechat web application utilising websockets to allow push notifications between server and client.   | MongoDB, Express, React, Node | Jasmine Mocha  |
-| Bank Tech Test     |                                                 A practice tech test to build a simple CLI banking app                                                | Javascript                    | Jasmine        |
-| Takeaway Challenge | A Makers Academy weekend challenge to build a CLI app which notifies users of successful orders via text. Also allows users to order via text message | Ruby, Sinatra, Heroku, Twilio |      Rspec     |
+| [Final Project](https://github.com/jbropho/final-project-websocket-livechat)      |   My groups final project at Makers Academy. A livechat web application utilising websockets to allow push notifications between server and client.   | MongoDB, Express, React, Node | Jasmine Mocha  |
+| [Bank Tech Test](https://github.com/jbropho/bank-tech-test)     |                                                 A practice tech test to build a simple CLI banking app                                                | Javascript                    | Jasmine        |
+| [Takeaway Challenge](https://github.com/jbropho/takeaway-challenge) | A Makers Academy weekend challenge to build a CLI app which notifies users of successful orders via text. Also allows users to order via text message | Ruby, Sinatra, Heroku, Twilio |      Rspec     |
 
 # Education
 
@@ -43,10 +45,6 @@ diverse tech stack and the option to explore various roles across the developmen
    individuals and groups with differing areas of expertise.
 
 ## Skills
-
-#### Communication
-
-#### Problem solving
 
 ## Interests
 
