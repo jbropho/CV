@@ -46,6 +46,19 @@ diverse tech stack and the option to explore various roles across the developmen
 
 ## Skills
 
+I have worked hard during my time at Makers to expand my team work and communcation
+skills. The best thing I learned at Makers Academy was how to work as part of a team
+and follow a modern, proffesional approach to software development.
+
+My prefference is for back-end work and DevOps. I am interested in creating fast, 
+scalable software which takes advantage of cloud architecture and modern communication
+technlogies. I am currently looking to expand on my groups final project at makers, 
+by using a pub/sub service to enable scaling of our application across servers.
+
 ## Interests
 
+I have a passion for travelling and playing sports. I have recently travelled
+to Asia, South America, Eastern Europe and I spent a year living and working 
+in Australia. I like to play football and table tennis and I make sure to do a few
+sessions of yoga each week and like to climb in my spare time.
 
