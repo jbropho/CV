@@ -1,16 +1,15 @@
 ## Jordan Brooks
-Email: jorbrooks92@gmail.com
 
 [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Interests](#interests)
 
-Junior developer currently seeking work, with an interest in scalability, functional programming 
+Anthropologist turned developer, with an interest in scalability, functional programming 
 and DevOps. Looking for a role which combines software engineering with DevOps, preferably with a 
 diverse tech stack and the option to explore various roles across the development cycle.
 
 ## Projects:
 | Name               | Description                                                                                                                                           | Tech                          | Testing        |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|----------------|
-| [Final Project](https://github.com/jbropho/final-project-websocket-livechat)      |   My groups final project at Makers Academy. A livechat web application utilising websockets to allow push notifications between server and client.   | MongoDB, Express, React, Node | Jasmine Mocha  |
+| [Websocket Livechat](https://github.com/jbropho/final-project-websocket-livechat)      |   My groups final project at Makers Academy. A livechat web application utilising websockets to allow push notifications between server and client.   | MongoDB, Express, React, Node | Jasmine Mocha  |
 | [Bank Tech Test](https://github.com/jbropho/bank-tech-test)     |                                                 A practice tech test to build a simple CLI banking app                                                | Javascript                    | Jasmine        |
 | [Takeaway Challenge](https://github.com/jbropho/takeaway-challenge) | A Makers Academy weekend challenge to build a CLI app which notifies users of successful orders via text. Also allows users to order via text message | Ruby, Sinatra, Heroku, Twilio |      Rspec     |
 
@@ -34,9 +33,7 @@ diverse tech stack and the option to explore various roles across the developmen
      * Ruby: Rspec and Capybara
    * Deployment/Integration: Heroku, Travis, Mlab
 
----
-### Break in Education due to traveling and living in Australia 
---- 
+### Travelling / Living in Australia (2015 - 2018)
 
 ### University of Manchester (2012-2015) - 2:1 BSc. (Honours) Social Anthropology
 
