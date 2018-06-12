@@ -4,7 +4,7 @@ Email: jorbrooks92@gmail.com
 [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Interests](#interests)
 
 Junior developer currently seeking work, with an interest in scalability, functional programming 
-and DevOps. Looking for a role which combines software engineering with DevOps, prefferably with a 
+and DevOps. Looking for a role which combines software engineering with DevOps, preferably with a 
 diverse tech stack and the option to explore various roles across the development cycle.
 
 ## Projects:
