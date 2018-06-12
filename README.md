@@ -33,7 +33,7 @@ diverse tech stack and the option to explore various roles across the developmen
      * Ruby: Rspec and Capybara
    * Deployment/Integration: Heroku, Travis, Mlab
 
-### Travelling / Living in Australia (2015 - 2018)
+### Travelling / Living in Australia (2015 - 2017)
 
 ### University of Manchester (2012-2015) - 2:1 BSc. (Honours) Social Anthropology
 
