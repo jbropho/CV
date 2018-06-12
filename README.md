@@ -7,11 +7,11 @@ and DevOps. Looking for a role which combines software engineering with DevOps, 
 diverse tech stack and the option to explore various roles across the development cycle.
 
 ## Projects:
-| Name               | Description                                                                                                                                           | Tech                          | Testing        |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|----------------|
-| [Websocket Livechat](https://github.com/jbropho/final-project-websocket-livechat)      |   My groups final project at Makers Academy. A livechat web application utilising websockets to allow push notifications between server and client.   | MongoDB, Express, React, Node | Jasmine Mocha  |
-| [Bank Tech Test](https://github.com/jbropho/bank-tech-test)     |                                                 A practice tech test to build a simple CLI banking app                                                | Javascript                    | Jasmine        |
-| [Takeaway Challenge](https://github.com/jbropho/takeaway-challenge) | A Makers Academy weekend challenge to build a CLI app which notifies users of successful orders via text. Also allows users to order via text message | Ruby, Sinatra, Heroku, Twilio |      Rspec     |
+| Name               | Description                                                                                                                                           | Tech                          | Testing        | Group Size | Duration | Week Number |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|----------------|------------|----------|-------------|
+| Final Project      | My groups final project at Makers Academy. A livechat web application utilising websockets to allow push notifications between server and client.     | MongoDB, Express, React, Node | Jasmine Mocha  | 4          | 10 days  | 12          |
+| Bank Tech Test     | A practice tech test to build a simple CLI banking app                                                                                                | Javascript                    | Jasmine        | 1          | 2 days   | 10          |
+| Takeaway Challenge | A Makers Academy weekend challenge to build a CLI app which notifies users of successful orders via text. Also allows users to order via text message | Ruby, Sinatra, Heroku, Twilio | Rspec          | 1          | 2 days   | 2           |
 
 # Education
 
