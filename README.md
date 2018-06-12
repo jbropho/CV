@@ -34,6 +34,7 @@ diverse tech stack and the option to explore various roles across the developmen
      * Ruby: Rspec and Capybara
    * Deployment/Integration: Heroku, Travis, Mlab
 
+### Break in Education due to traveling and living in Australia 
 
 ### University of Manchester (2012-2015) - 2:1 BSc. (Honours) Social Anthropology
 
@@ -46,7 +47,10 @@ diverse tech stack and the option to explore various roles across the developmen
 
 ## Skills
 
-Communicate tech to non-tech people.
+During the course I have been told by several other students that I am able to
+exaplain technical concepts in a clear and simple way. I believe that through 
+the use of metaphors and examples I am able to communicate the fundamental ideas
+behind techincal concepts to people who do not have a technical background.
 
 I have worked hard during my time at Makers to expand my team work and communication 
 skills. The best thing I learned at Makers Academy was how to work as part of a team
